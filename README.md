@@ -1,4 +1,4 @@
-# Next.js TypeScript starter
+# Next.js TypeScript web3example
 
 This is a _Next.js_ and _TypeScript_ starter with sane defaults. There's a support for [Tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Bootstrap](https://github.com/twbs/bootstrap), [MUI](https://github.com/mui/material-ui) outside the box. There's also a support for internationalization and localization using react-intl and react-i18next (with next-i18next). It support rtl/ltr as well.  
 A mock server using [json-server](https://github.com/typicode/json-server) is also available, more info about mock server can be found at the end of readme.
@@ -36,4 +36,6 @@ Filtering the results is available by using the [`json-server`](https://github.c
 
 ## Todo List
 
-Any tasks related to project will be listed here.
+-   [ ] learn about web3 js library
+-   [ ] install web3 js on this project
+-   [ ] learn web3 js usage
