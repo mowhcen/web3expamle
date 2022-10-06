@@ -37,5 +37,5 @@ Filtering the results is available by using the [`json-server`](https://github.c
 ## Todo List
 
 -   [ ] learn about web3 js library
--   [ ] install web3 js on this project
+-   [x] install web3 js on this project
 -   [ ] learn web3 js usage
